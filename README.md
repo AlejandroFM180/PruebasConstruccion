@@ -1,2 +1,2 @@
 # PruebasConstruccion
-practicas de construccion UADY
+Este repro es de tareas
